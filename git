@@ -1,0 +1,15 @@
+// to create account
+git init
+
+
+// for commit
+git commit -m "first commit"
+
+// for main
+git branch -M main
+
+// for remote repositories 
+git remote add origin https://github.com/OjoMayowa29/OjoMayowa29.git
+
+// for push
+git push -u origin main
